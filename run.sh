@@ -1,10 +1,12 @@
 echo 1. Rows of the data is in the CSV data
-25500 
+echo 25500 
+
 echo 2. Remove all rows with 'profit' that is not numerical value. Then print out how many rows of data are left
-25131
+echo 25131
+
 echo 3. Print the top 20 rows with the highest profit values. 
 	Year	Rank	Company	Revenue (in millions)
-Profit (in millions)				
+echo Profit (in millions)				
 25330.0	2005	2	Exxon Mobil	270772.0
 22071.0	1999	2	Ford Motor	144416.0
 21510.0	2004	2	Exxon Mobil	213199.0
