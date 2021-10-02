@@ -5,4 +5,4 @@ echo 2. Remove all rows with 'profit' that is not numerical value. Then print ou
 echo 25131
 
 echo 3. Print the top 20 rows with the highest profit values.
-echo data.head(20)
+echo $data.head(20)
